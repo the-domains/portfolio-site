@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Freelance Journalist]]></title>
         <description><![CDATA[Freelance Journalist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tovinlapan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 23:30:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 23:30:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tovinlapan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Tale of the Torta Ahogada]]></title>
+            <description><![CDATA[<article><h1>The Tale of the Torta Ahogada</h1><p>Don Ignacio "Nacho" Saldaña, 82, still gets up before sunrise every morning to prepare the food and man the counter at his restaurant, Tortas Ahogadas "El Güerito," open in Guadalajara's historic center since 1959. He tops his thin, closely cropped white hair with a blue baseball cap, his squinty eyes behind black metal-rimmed glasses resting on his broad nose.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/182850cec0e4f0612aa21583fcd9c38fd216057f.jpg"></article>]]></description>
+            <link>http://pbli.sh/fUGx</link>
+            <guid isPermaLink="false">1eaa3b37-857f-44ae-9b15-97e8dcd2cfde</guid>
+            <pubDate>Wed, 08 Jun 2016 23:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How S.F.'s Housing Market Is Kicking Pets to the Curb]]></title>
             <description><![CDATA[<article><h1>How S.F.'s Housing Market Is Kicking Pets to the Curb</h1><p>Tovin Lapan | Photo: iStockphoto | November 17, 2015 At dawn, Madeline Wales woke up, carefully stowed and concealed her things, and took her two dogs out for a walk. She had to be out of the storeroom in the San Francisco nonprofit-formerly her place of employment and, for more than a year, her makeshift home-before it started buzzing with activity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8f9e66643661178354a3e42212d9df4841adb42.jpg"></article>]]></description>

@@ -29,10 +29,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://pbli.sh/v1G4'
 title: Why So Many Prisons and Jails Are Embracing Aquaponics
-datePublished: '2016-06-08T23:30:23.064Z'
-dateModified: '2016-06-08T23:30:22.794Z'
+datePublished: '2016-06-08T23:30:25.889Z'
+dateModified: '2016-06-08T23:30:25.726Z'
 sourcePath: _posts/2016-06-08-why-so-many-prisons-and-jails-are-embracing-aquaponics.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

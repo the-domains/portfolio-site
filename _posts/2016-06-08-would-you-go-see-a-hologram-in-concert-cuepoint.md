@@ -68,10 +68,10 @@ app_links:
     namespace: google
     type: android
 title: Would You Go See a Hologram in Concert? - Cuepoint
-datePublished: '2016-06-08T23:30:11.233Z'
-dateModified: '2016-06-08T23:27:46.057Z'
-starred: false
+datePublished: '2016-06-08T23:37:05.824Z'
+dateModified: '2016-06-08T23:37:05.539Z'
 sourcePath: _posts/2016-06-08-would-you-go-see-a-hologram-in-concert-cuepoint.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false

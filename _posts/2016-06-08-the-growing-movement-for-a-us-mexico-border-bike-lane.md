@@ -29,10 +29,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.citylab.com/commute/2016/05/us-mexico-border-bike-lane/481515/'
 title: The Growing Movement for a U.S.-Mexico Border Bike Lane
-datePublished: '2016-06-08T23:30:30.002Z'
-dateModified: '2016-06-08T23:30:29.732Z'
+datePublished: '2016-06-08T23:37:25.740Z'
+dateModified: '2016-06-08T23:37:25.441Z'
 sourcePath: _posts/2016-06-08-the-growing-movement-for-a-us-mexico-border-bike-lane.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

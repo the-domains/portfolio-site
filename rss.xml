@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tovin Lapan Freelance Journalist]]></title>
         <description><![CDATA[Tovin Lapan Freelance Journalist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tovinlapan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 17:43:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 17:43:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tovinlapan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Would You Go See a Hologram in Concert? - Cuepoint]]></title>
+            <description><![CDATA[<article><h1>Would You Go See a Hologram in Concert? - Cuepoint</h1><p>The record crowd, 66,000 strong, screamed and shook the Houston Astrodome as the superstar appeared on a white, horse-drawn carriage. Selena, in her trademark purple, midriff-baring jumpsuit waved to the adoring fans before stepping onstage and breaking into "I Will Survive."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/097774cd3865b16df784478b04cbce4913c077f2.png"></article>]]></description>
+            <link>https://thegrid.ai/tovinlapan/would-you-go-see-a-hologram-in-concert-cuepoint/index.html</link>
+            <guid isPermaLink="false">b8b3f516-a4bd-4c5d-84c5-b12f3496167f</guid>
+            <pubDate>Thu, 09 Jun 2016 17:43:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do We Stop Caring About Popular Music in Our 30s? - Cuepoint]]></title>
             <description><![CDATA[<article><h1>Do We Stop Caring About Popular Music in Our 30s? - Cuepoint</h1><p>A new study indicates people start off listening to chart-topping pop music and branch off into all kinds of territory in their teens and early 20s, before their musical tastes start to calcify and become more rigid by their mid-30s. That is, unless you have children.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fa7b274580ecf4d9134b42ee20ac7995d3b24a2.png"></article>]]></description>
-            <link>undefineddo-we-stop-caring-about-popular-music-in-our-30s-cuepoint/index.html</link>
+            <link>https://thegrid.ai/tovinlapan/do-we-stop-caring-about-popular-music-in-our-30s-cuepoint/index.html</link>
             <guid isPermaLink="false">9f2d49f9-4d67-4fce-81df-00d35eee5b96</guid>
             <pubDate>Thu, 09 Jun 2016 17:43:08 GMT</pubDate>
         </item>

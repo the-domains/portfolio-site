@@ -11,6 +11,10 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 layout_spectrum: 0.06695048580877483
+author:
+  name: Tovin Lapan
+  email: tovinlapan@gmail.com
+  url: tovinlapan.com
 logo: null
 name: Tovin&nbsp;Lapan
 favicon: null

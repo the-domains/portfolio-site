@@ -1,15 +1,15 @@
-typography_spectrum: 0.5306423045694828
+typography_spectrum: 0.7229914478957653
 color:
-  brandStrength: 0.13050899072550237
-  lightness: 0.16435381211340427
-  saturation: 0.3099841494113207
-  rhythmicContrast: 0.026081531308591366
+  brandStrength: 0.31313735735602677
+  lightness: 0.8536558945197612
+  saturation: 0.4489056491293013
+  rhythmicContrast: 0.8714782553724945
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 layout_spectrum: 0.35436151875182986
 author:
   name: Tovin Lapan

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T18:26:59.131Z'
+datePublished: '2016-07-06T18:27:49.890Z'
 sourcePath: _posts/2016-06-08-banksy-dface-and-how-life-is-beautiful-transformed-downto.md
 isBasedOnUrl: 'http://pbli.sh/dQol'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - street
 related: []
 author: []
-dateModified: '2016-07-06T18:26:55.367Z'
+dateModified: '2016-07-06T18:27:01.087Z'
 title: >-
   Banksy, D*Face, and How Life Is Beautiful Transformed Downtown Las Vegas into
   an Open-Air Art Gallery | NOISEY
@@ -39,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf058862-586d-4154-85b6-7986d00f34f4.jpg)
+![Las Vegas is nothing if not an aesthetic overload. But for the thousands attending last weekend's Life is Beautiful Festival, the visual spectacle was less about neon casino signs and more about giant meerkats, an undead Snoopy and an enormous octopus bursting out of an abandoned motel.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf058862-586d-4154-85b6-7986d00f34f4.jpg)

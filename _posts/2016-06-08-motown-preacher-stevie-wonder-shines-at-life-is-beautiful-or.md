@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-06T18:26:31.802Z'
+datePublished: '2016-07-06T18:26:17.350Z'
 sourcePath: >-
   _posts/2016-06-08-motown-preacher-stevie-wonder-shines-at-life-is-beautiful-or.md
 isBasedOnUrl: 'http://pbli.sh/bR1H'
@@ -32,7 +32,7 @@ related:
       https://static01.nyt.com/images/2015/08/02/magazine/02weeknd1/02weeknd1-facebookJumbo-v2.jpg
     thumbnail_width: 1050
 author: []
-dateModified: '2016-07-06T18:26:19.068Z'
+dateModified: '2016-07-06T18:26:14.242Z'
 title: 'Motown Preacher: Stevie Wonder Shines at Life Is Beautiful | NOISEY'
 app_links: []
 publisher:
@@ -53,4 +53,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![This is supposed to be a review about Stevie Wonder headlining the first night of the Life is Beautiful Festival in downtown Las Vegas, but as Yeezus himself will tell you, all roads lead back to Kanye West, and this is no different.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aba179e-d95c-4561-a816-9299dbff1170.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aba179e-d95c-4561-a816-9299dbff1170.jpg)

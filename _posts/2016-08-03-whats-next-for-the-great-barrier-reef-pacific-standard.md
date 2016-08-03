@@ -53,11 +53,11 @@ app_links:
     type: android
 isBasedOnUrl: 'https://psmag.com/whats-next-for-the-great-barrier-reef-677e9c66f52c#'
 title: What's Next for the Great Barrier Reef? - Pacific Standard
-datePublished: '2016-08-03T17:33:58.420Z'
-dateModified: '2016-08-03T17:33:47.409Z'
+datePublished: '2016-08-03T17:36:31.836Z'
+dateModified: '2016-08-03T17:36:31.492Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-03-whats-next-for-the-great-barrier-reef-pacific-standard.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false

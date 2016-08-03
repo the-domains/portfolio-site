@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Tovin Lapan
-    url: 'https://psmag.com/@tovinlapan'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://psmag.com'
-  name: Medium
-  favicon: 'https://cdn-images-1.medium.com/fit/c/128/128/1*i_0D3JVKV7EvSiLj4i0k0g.png'
-  domain: psmag.com
+datePublished: '2016-08-03T17:43:04.134Z'
+sourcePath: _posts/2016-08-03-whats-next-for-the-great-barrier-reef-pacific-standard.md
+isBasedOnUrl: 'https://psmag.com/whats-next-for-the-great-barrier-reef-677e9c66f52c#'
 keywords:
   - reefs
   - coral
@@ -20,12 +13,14 @@ keywords:
   - climatic
   - cyclone
   - temperatures
-description: >-
-  The boat slid out of dock in Port Douglas, Australia, with 30 eager divers on
-  board, gliding past a saltwater crocodile languidly cruising the shoreline. As
-  we started the hour-long journey to our Great Barrier Reef dive site, the
-  underwater beasts were far from my mind.
-inLanguage: en
+related: []
+author:
+  - name: Tovin Lapan
+    url: 'https://psmag.com/@tovinlapan'
+    avatar: {}
+via: {}
+dateModified: '2016-08-03T17:43:03.790Z'
+title: What's Next for the Great Barrier Reef? - Pacific Standard
 app_links:
   - type: android
     namespace: ai
@@ -51,12 +46,17 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-isBasedOnUrl: 'https://psmag.com/whats-next-for-the-great-barrier-reef-677e9c66f52c#'
-title: What's Next for the Great Barrier Reef? - Pacific Standard
-datePublished: '2016-08-03T17:36:31.836Z'
-dateModified: '2016-08-03T17:36:31.492Z'
-via: {}
-sourcePath: _posts/2016-08-03-whats-next-for-the-great-barrier-reef-pacific-standard.md
+publisher:
+  url: 'https://psmag.com'
+  name: Pacific Standard
+  favicon: 'https://cdn-images-1.medium.com/fit/c/128/128/1*i_0D3JVKV7EvSiLj4i0k0g.png'
+  domain: psmag.com
+description: >-
+  The boat slid out of dock in Port Douglas, Australia, with 30 eager divers on
+  board, gliding past a saltwater crocodile languidly cruising the shoreline. As
+  we started the hour-long journey to our Great Barrier Reef dive site, the
+  underwater beasts were far from my mind.
+inLanguage: en
 starred: true
 inFeed: true
 hasPage: false
@@ -65,4 +65,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>What's Next for the Great Barrier Reef? - Pacific Standard</h1><p>The boat slid out of dock in Port Douglas, Australia, with 30 eager divers on board, gliding past a saltwater crocodile languidly cruising the shoreline. As we started the hour-long journey to our Great Barrier Reef dive site, the underwater beasts were far from my mind.</p><img src="https://cdn-images-1.medium.com/max/1200/1*iuU18-E3F1K03_W4qZzfpQ.jpeg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e9072bddf59442e1fdcb12eddf8b653/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*iuU18-E3F1K03_W4qZzfpQ.jpeg" /><h1>What's Next for the Great Barrier Reef? - Pacific Standard</h1><p>The boat slid out of dock in Port Douglas, Australia, with 30 eager divers on board, gliding past a saltwater crocodile languidly cruising the shoreline. As we started the hour-long journey to our Great Barrier Reef dive site, the underwater beasts were far from my mind.</p></article>

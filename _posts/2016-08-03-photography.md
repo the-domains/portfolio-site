@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-08-03T15:53:51.623Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c90f4e7-8780-4bf9-865b-66f769db71f2.jpg
+datePublished: '2016-08-03T15:54:15.375Z'
 author: []
 via: {}
-dateModified: '2016-08-03T15:53:50.265Z'
+dateModified: '2016-08-03T15:54:14.735Z'
 title: Photography
 publisher: {}
 description: >-
   Check out some of my work below. I’m available as a photographer, and can also
   provide photography in addition to reporting and writing.
-starred: false
 sourcePath: _posts/2016-08-03-photography.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: photography/index.html
 _type: MediaObject
 
 ---

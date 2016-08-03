@@ -1,15 +1,6 @@
 ---
-author:
-  - name: Tovin Lapan
-    url: 'https://medium.com/@tovinlapan'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: >-
-    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
-  domain: pbli.sh
+datePublished: '2016-08-03T17:43:55.445Z'
+sourcePath: _posts/2016-06-08-do-we-stop-caring-about-popular-music-in-our-30s-cuepoint.md
 keywords:
   - listener
   - kalia
@@ -21,12 +12,14 @@ keywords:
   - popular
   - mainstream
   - study
-description: >-
-  A new study indicates people start off listening to chart-topping pop music
-  and branch off into all kinds of territory in their teens and early 20s,
-  before their musical tastes start to calcify and become more rigid by their
-  mid-30s. That is, unless you have children.
-inLanguage: en
+related: []
+author:
+  - name: Tovin Lapan
+    url: 'https://medium.com/@tovinlapan'
+    avatar: {}
+via: {}
+dateModified: '2016-08-03T17:43:55.154Z'
+title: Do We Stop Caring About Popular Music in Our 30s? - Cuepoint
 app_links:
   - type: android
     namespace: ai
@@ -53,17 +46,25 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: Do We Stop Caring About Popular Music in Our 30s? - Cuepoint
-datePublished: '2016-06-09T17:43:08.329Z'
-dateModified: '2016-06-09T01:12:39.201Z'
-sourcePath: _posts/2016-06-08-do-we-stop-caring-about-popular-music-in-our-30s-cuepoint.md
+publisher:
+  url: 'https://medium.com/cuepoint'
+  name: Cuepoint
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
+  domain: pbli.sh
+description: >-
+  A new study indicates people start off listening to chart-topping pop music
+  and branch off into all kinds of territory in their teens and early 20s,
+  before their musical tastes start to calcify and become more rigid by their
+  mid-30s. That is, unless you have children.
+inLanguage: en
 starred: false
 inFeed: true
 hasPage: true
 inNav: false
 url: do-we-stop-caring-about-popular-music-in-our-30s-cuepoint/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
-<article style=""><h1>Do We Stop Caring About Popular Music in Our 30s? - Cuepoint</h1><p>A new study indicates people start off listening to chart-topping pop music and branch off into all kinds of territory in their teens and early 20s, before their musical tastes start to calcify and become more rigid by their mid-30s. That is, unless you have children.</p><img src="https://cdn-images-1.medium.com/max/1200/1*dbu65Ikywf1rhPmAPu9ZUw.png" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fa7b274580ecf4d9134b42ee20ac7995d3b24a2.png" /><h1>Do We Stop Caring About Popular Music in Our 30s? - Cuepoint</h1><p>A new study indicates people start off listening to chart-topping pop music and branch off into all kinds of territory in their teens and early 20s, before their musical tastes start to calcify and become more rigid by their mid-30s. That is, unless you have children.</p></article>

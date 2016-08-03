@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-03T16:05:49.401Z'
+datePublished: '2016-08-03T17:41:41.328Z'
 sourcePath: _posts/2016-08-03-photography.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T16:05:48.168Z'
+dateModified: '2016-08-03T17:41:40.946Z'
 title: Photography
 publisher: {}
 description: >-

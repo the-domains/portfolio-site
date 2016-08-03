@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-03T15:54:15.375Z'
+datePublished: '2016-08-03T15:56:27.751Z'
+sourcePath: _posts/2016-08-03-photography.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T15:54:14.735Z'
+dateModified: '2016-08-03T15:56:27.018Z'
 title: Photography
 publisher: {}
 description: >-
-  Check out some of my work below. I’m available as a photographer, and can also
-  provide photography in addition to reporting and writing.
-sourcePath: _posts/2016-08-03-photography.md
-hasPage: true
+  Check out some of my work below. I’m available for photo assignments, and can
+  also provide photos in addition to reporting and writing.
 starred: false
 url: photography/index.html
 _type: MediaObject
@@ -17,7 +17,7 @@ _type: MediaObject
 ---
 # Photography
 
-Check out some of my work below. I'm available as a photographer, and can also provide photography in addition to reporting and writing.
+Check out some of my work below. I'm available for photo assignments, and can also provide photos in addition to reporting and writing.
 ![A drag production of the musical "Chicago" in Miami Beach.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c90f4e7-8780-4bf9-865b-66f769db71f2.jpg)
 ![Twilight at the pier, Naples, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa345e2-389d-46d7-bd33-1e8ba35587e1.jpg)
 ![Coca-Cola bottling plant, Carepa, Colombia.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c4b7142-1727-4780-993f-191fdf249e56.jpg)

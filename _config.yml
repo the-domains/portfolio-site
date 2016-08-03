@@ -18,11 +18,11 @@ author:
 logo: null
 name: Tovin&nbsp;Lapan
 navigation:
-  - name: Contact
-    id: c6be684b-bd01-4fa6-8ce6-93e4c2f7e781
-    type: content
   - name: About Me
     id: 598af886-40b9-4195-843b-df513fbf7824
+    type: content
+  - name: Contact
+    id: c6be684b-bd01-4fa6-8ce6-93e4c2f7e781
     type: content
 favicon: null
 title: Tovin Lapan – Freelance Journalist

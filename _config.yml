@@ -17,5 +17,9 @@ author:
   url: ''
 logo: null
 name: Tovin&nbsp;Lapan
+navigation:
+  - name: Contact
+    id: c6be684b-bd01-4fa6-8ce6-93e4c2f7e781
+    type: content
 favicon: null
 title: Tovin Lapan – Freelance Journalist

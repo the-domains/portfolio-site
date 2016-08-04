@@ -1,16 +1,16 @@
-typography_spectrum: 0.41670133639127016
+typography_spectrum: 0.5281247759703547
 color:
-  brandStrength: 0.31313735735602677
-  lightness: 0.8536558945197612
-  saturation: 0.4489056491293013
-  rhythmicContrast: 0.8714782553724945
+  brandStrength: 0.16241644462570548
+  lightness: 0.47965258196927607
+  saturation: 0.0399910241831094
+  rhythmicContrast: 0.9357915646396577
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-layout_spectrum: 0.42524947016499937
+    - '#FF9800'
+layout_spectrum: 0.4496030118316412
 author:
   name: Tovin Lapan
   email: tovinlapan@gmail.com

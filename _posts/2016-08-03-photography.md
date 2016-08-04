@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-04T15:13:57.899Z'
+datePublished: '2016-08-04T15:20:15.397Z'
 sourcePath: _posts/2016-08-03-photography.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T15:13:52.931Z'
+dateModified: '2016-08-04T15:20:10.449Z'
 title: Photography
 publisher: {}
 description: >-
@@ -19,6 +19,8 @@ _type: MediaObject
 
 Check out some of my work below. I'm available for photo assignments, and can also provide photos in addition to reporting and writing.
 ![A drag production of the musical "Chicago" in Miami Beach.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c6f84f-bdeb-4075-9007-d9d6f7bcd207.jpg)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 A drag production of the musical "Chicago" in Miami Beach.
 ![Twilight at the pier, Naples, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa345e2-389d-46d7-bd33-1e8ba35587e1.jpg)

@@ -1,15 +1,6 @@
 ---
-author:
-  - name: Tovin Lapan
-    url: 'https://medium.com/@tovinlapan'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: >-
-    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
-  domain: pbli.sh
+datePublished: '2016-08-09T04:30:21.681Z'
+sourcePath: _posts/2016-06-08-mexicali-blues-alt-ledes.md
 keywords:
   - junior
   - adela
@@ -21,13 +12,13 @@ keywords:
   - citizen
   - velasquez
   - family
-description: >-
-  MEXICALI, Baja California - Another Diaz family reunion, the seventh since
-  November, is wrapping up at Casa Hogar, an elderly care home in this humid
-  Mexican border town. A total of six family members have made the trip from Las
-  Vegas to see the oldest of seven siblings, Francisco Diaz Jr., 40, who is the
-  youngest resident of the care facility by at least 30 years.
-inLanguage: en
+related: []
+author:
+  - name: Tovin Lapan
+    url: 'https://medium.com/@tovinlapan'
+    avatar: {}
+dateModified: '2016-08-09T04:30:21.353Z'
+title: Mexicali Blues - Alt Ledes
 app_links:
   - type: android
     namespace: ai
@@ -53,17 +44,27 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: Mexicali Blues - Alt Ledes
-datePublished: '2016-06-09T17:43:30.095Z'
-dateModified: '2016-06-09T01:12:39.205Z'
-sourcePath: _posts/2016-06-08-mexicali-blues-alt-ledes.md
+publisher:
+  url: 'https://medium.com'
+  name: Medium
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
+  domain: pbli.sh
+description: >-
+  MEXICALI, Baja California - Another Diaz family reunion, the seventh since
+  November, is wrapping up at Casa Hogar, an elderly care home in this humid
+  Mexican border town. A total of six family members have made the trip from Las
+  Vegas to see the oldest of seven siblings, Francisco Diaz Jr., 40, who is the
+  youngest resident of the care facility by at least 30 years.
+inLanguage: en
+via: {}
 starred: false
 inFeed: true
 hasPage: true
 inNav: false
 url: mexicali-blues-alt-ledes/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
-<article style=""><h1>Mexicali Blues - Alt Ledes</h1><p>MEXICALI, Baja California - Another Diaz family reunion, the seventh since November, is wrapping up at Casa Hogar, an elderly care home in this humid Mexican border town. A total of six family members have made the trip from Las Vegas to see the oldest of seven siblings, Francisco Diaz Jr., 40, who is the youngest resident of the care facility by at least 30 years.</p><img src="https://cdn-images-1.medium.com/max/1200/1*HVM0-9ljnuIZUV2XEDh6bA.jpeg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/763131b7feb1fc12426c6bad1f4bf9b03fb5b6b8.jpg" /><h1>Mexicali Blues - Alt Ledes</h1><p>MEXICALI, Baja California - Another Diaz family reunion, the seventh since November, is wrapping up at Casa Hogar, an elderly care home in this humid Mexican border town. A total of six family members have made the trip from Las Vegas to see the oldest of seven siblings, Francisco Diaz Jr., 40, who is the youngest resident of the care facility by at least 30 years.</p></article>

@@ -4,7 +4,7 @@
         <description><![CDATA[Tovin Lapan – Freelance Journalist]]></description>
         <link>http://tovinlapan.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 18:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 18:48:53 GMT</lastBuildDate>
         <atom:link href="http://tovinlapan.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What's Next for the Great Barrier Reef? - Pacific Standard]]></title>
@@ -26,6 +26,13 @@
             <link>http://tovinlapan.com/would-you-go-see-a-hologram-in-concert-cuepoint/index.html</link>
             <guid isPermaLink="false">b8b3f516-a4bd-4c5d-84c5-b12f3496167f</guid>
             <pubDate>Tue, 09 Aug 2016 04:29:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Growing Movement for a U.S.-Mexico Border Bike Lane]]></title>
+            <description><![CDATA[<article><h1>The Growing Movement for a U.S.-Mexico Border Bike Lane</h1><p>Each morning, denizens of the San Diego-Tijuana border area turn on their radios to get the news like everyone else around the country. But along with the weather forecast (most likely sunny and 75 degrees), sports scores, and top headlines, listeners also hear the wait times at the border.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad033d2c5b73d2813ec585ee88e2c1ea285cd9af.jpg"></article>]]></description>
+            <link>http://www.citylab.com/commute/2016/05/us-mexico-border-bike-lane/481515/</link>
+            <guid isPermaLink="false">12ad270e-c63d-4ca9-a8f9-59be862e6c04</guid>
+            <pubDate>Tue, 09 Aug 2016 18:48:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Mexicali Blues - Alt Ledes]]></title>
@@ -68,13 +75,6 @@
             <link>http://pbli.sh/v1G4</link>
             <guid isPermaLink="false">bc46875f-bcdf-45d7-8dee-88b863329bfc</guid>
             <pubDate>Tue, 09 Aug 2016 04:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California birth certificates and accents: O'Connor alright, Ramón and José is not]]></title>
-            <description><![CDATA[<article><h1>California birth certificates and accents: O'Connor alright, Ramón and José is not</h1><p>Every year in California thousands of parents choose names such as José, Andrés and Sofía for their children, often honoring the memory of a deceased grandmother, aunt or sibling. On the state-issued birth certificates, though, those names will be spelled incorrectly. California, like several other states, prohibits the use of diacritical marks or accents on official documents.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a8b885aa13c78439ea9bd9f1279d92a5aaa81b8.jpg"></article>]]></description>
-            <link>http://pbli.sh/rOSX</link>
-            <guid isPermaLink="false">1d0741d9-058a-4e34-a40c-68d5192612ad</guid>
-            <pubDate>Tue, 09 Aug 2016 04:29:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

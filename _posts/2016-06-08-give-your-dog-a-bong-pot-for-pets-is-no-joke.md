@@ -1,14 +1,7 @@
 ---
-author:
-  - name: Tovin Lapan
-    url: 'http://lasvegasweekly.com/staff/tovin/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://lasvegasweekly.com'
-  name: LasVegasWeekly.com
-  favicon: 'http://media.lasvegasweekly.com/assets/images/icons/favicon-64.png'
-  domain: pbli.sh
+datePublished: '2016-08-09T04:28:33.600Z'
+sourcePath: _posts/2016-06-08-give-your-dog-a-bong-pot-for-pets-is-no-joke.md
+isBasedOnUrl: 'http://pbli.sh/hUCx'
 keywords:
   - reiman
   - marijuana
@@ -20,18 +13,26 @@ keywords:
   - monkey
   - pot
   - drug
+related: []
+author:
+  - name: Tovin Lapan
+    url: 'http://lasvegasweekly.com/staff/tovin/'
+    avatar: {}
+dateModified: '2016-08-09T04:28:33.399Z'
+title: Give your dog a bong? Pot for pets is no joke
+app_links: []
+publisher:
+  url: 'http://lasvegasweekly.com'
+  name: LasVegasWeekly.com
+  favicon: 'http://media.lasvegasweekly.com/assets/images/icons/favicon-64.png'
+  domain: pbli.sh
 description: >-
   The Twittersphere was quick to show its wit when news broke that a law
   proposed in the Nevada legislature would allow medicinal marijuana for
   animals. Quips rolled out about "cat cannabis" and finding the "Snoop Dogg" in
   your own dog.
 inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://pbli.sh/hUCx'
-title: Give your dog a bong? Pot for pets is no joke
-datePublished: '2016-07-06T18:10:01.690Z'
-dateModified: '2016-06-09T01:12:39.200Z'
-sourcePath: _posts/2016-06-08-give-your-dog-a-bong-pot-for-pets-is-no-joke.md
+via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -40,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Give your dog a bong? Pot for pets is no joke</h1><p>The Twittersphere was quick to show its wit when news broke that a law proposed in the Nevada legislature would allow medicinal marijuana for animals. Quips rolled out about "cat cannabis" and finding the "Snoop Dogg" in your own dog.</p><img src="http://media.lasvegasweekly.com/img/photos/2015/04/01/dog_bong_shutterstock_t600.jpg?42b0fb247f69dabe2ae440581a34634cbc5420f3" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9da072dc738a5e0a5684f21defe8a1a8eb72f3d6.jpg" /><h1>Give your dog a bong? Pot for pets is no joke</h1><p>The Twittersphere was quick to show its wit when news broke that a law proposed in the Nevada legislature would allow medicinal marijuana for animals. Quips rolled out about "cat cannabis" and finding the "Snoop Dogg" in your own dog.</p></article>

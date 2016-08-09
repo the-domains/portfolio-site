@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T17:45:28.026Z'
+datePublished: '2016-08-09T04:29:16.855Z'
 sourcePath: _posts/2016-06-08-would-you-go-see-a-hologram-in-concert-cuepoint.md
 keywords:
   - digital
@@ -32,7 +32,7 @@ author:
     url: 'https://medium.com/@tovinlapan'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T17:45:27.448Z'
+dateModified: '2016-08-09T04:29:16.534Z'
 title: Would You Go See a Hologram in Concert? - Cuepoint
 app_links:
   - type: android

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T17:44:52.503Z'
+datePublished: '2016-08-09T04:30:34.642Z'
 sourcePath: _posts/2016-06-08-how-sfs-housing-market-is-kicking-pets-to-the-curb.md
 isBasedOnUrl: 'http://pbli.sh/gVd2'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-03T17:44:52.240Z'
+dateModified: '2016-08-09T04:30:33.884Z'
 title: How S.F.'s Housing Market Is Kicking Pets to the Curb
 app_links: []
 publisher:

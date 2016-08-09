@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T04:30:21.681Z'
+datePublished: '2016-08-09T17:49:22.896Z'
 sourcePath: _posts/2016-06-08-mexicali-blues-alt-ledes.md
 keywords:
   - junior
@@ -17,7 +17,8 @@ author:
   - name: Tovin Lapan
     url: 'https://medium.com/@tovinlapan'
     avatar: {}
-dateModified: '2016-08-09T04:30:21.353Z'
+via: {}
+dateModified: '2016-08-09T17:49:22.500Z'
 title: Mexicali Blues - Alt Ledes
 app_links:
   - type: android
@@ -57,7 +58,6 @@ description: >-
   Vegas to see the oldest of seven siblings, Francisco Diaz Jr., 40, who is the
   youngest resident of the care facility by at least 30 years.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: true

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T17:37:19.425Z'
+datePublished: '2016-08-09T04:28:16.548Z'
 sourcePath: _posts/2016-06-08-the-growing-movement-for-a-us-mexico-border-bike-lane.md
 isBasedOnUrl: 'http://www.citylab.com/commute/2016/05/us-mexico-border-bike-lane/481515/'
 keywords:
@@ -18,7 +18,8 @@ author:
   - name: Tovin Lapan
     url: 'http://www.citylab.com/authors/tovin-lapan/'
     avatar: {}
-dateModified: '2016-08-03T17:37:19.194Z'
+via: {}
+dateModified: '2016-08-09T04:28:16.098Z'
 title: The Growing Movement for a U.S.-Mexico Border Bike Lane
 app_links: []
 publisher:
@@ -32,7 +33,6 @@ description: >-
   the weather forecast (most likely sunny and 75 degrees), sports scores, and
   top headlines, listeners also hear the wait times at the border.
 inLanguage: en
-via: {}
 starred: false
 inFeed: true
 hasPage: false

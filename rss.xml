@@ -4,7 +4,7 @@
         <description><![CDATA[Tovin Lapan – Freelance Journalist]]></description>
         <link>http://tovinlapan.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 18:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 18:32:50 GMT</lastBuildDate>
         <atom:link href="http://tovinlapan.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What's Next for the Great Barrier Reef? - Pacific Standard]]></title>
@@ -26,6 +26,13 @@
             <link>http://tovinlapan.com/would-you-go-see-a-hologram-in-concert-cuepoint/index.html</link>
             <guid isPermaLink="false">b8b3f516-a4bd-4c5d-84c5-b12f3496167f</guid>
             <pubDate>Tue, 09 Aug 2016 04:29:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexicali Blues - Alt Ledes]]></title>
+            <description><![CDATA[<article><h1>Mexicali Blues - Alt Ledes</h1><p>MEXICALI, Baja California - Another Diaz family reunion, the seventh since November, is wrapping up at Casa Hogar, an elderly care home in this humid Mexican border town. A total of six family members have made the trip from Las Vegas to see the oldest of seven siblings, Francisco Diaz Jr., 40, who is the youngest resident of the care facility by at least 30 years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/763131b7feb1fc12426c6bad1f4bf9b03fb5b6b8.jpg"></article>]]></description>
+            <link>http://tovinlapan.com/mexicali-blues-alt-ledes/index.html</link>
+            <guid isPermaLink="false">3cac26b0-568a-4bf8-940e-8321024e94fe</guid>
+            <pubDate>Tue, 09 Aug 2016 18:32:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The brainchild of a former federal inmate, Pigeonly is a 21st-century lifeline]]></title>
@@ -68,13 +75,6 @@
             <link>http://pbli.sh/rOSX</link>
             <guid isPermaLink="false">1d0741d9-058a-4e34-a40c-68d5192612ad</guid>
             <pubDate>Tue, 09 Aug 2016 04:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motown Preacher: Stevie Wonder Shines at Life Is Beautiful | NOISEY]]></title>
-            <description><![CDATA[<article><h1>Motown Preacher: Stevie Wonder Shines at Life Is Beautiful | NOISEY</h1><p>This is supposed to be a review about Stevie Wonder headlining the first night of the Life is Beautiful Festival in downtown Las Vegas, but as Yeezus himself will tell you, all roads lead back to Kanye West, and this is no different.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/580fc4a441c9ca411e82b00ec9b70f22/croprotate.jpg?cropheight=2453&cropwidth=3600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4aba179e-d95c-4561-a816-9299dbff1170.jpg&x=0&y=0"></article>]]></description>
-            <link>http://pbli.sh/bR1H</link>
-            <guid isPermaLink="false">3f59a920-d754-4c1a-8240-2867b8a17893</guid>
-            <pubDate>Tue, 09 Aug 2016 04:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

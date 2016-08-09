@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T04:29:02.536Z'
+datePublished: '2016-08-09T04:33:54.697Z'
 sourcePath: _posts/2016-08-03-whats-next-for-the-great-barrier-reef-pacific-standard.md
 isBasedOnUrl: 'https://psmag.com/whats-next-for-the-great-barrier-reef-677e9c66f52c#'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://psmag.com/@tovinlapan'
     avatar: {}
 via: {}
-dateModified: '2016-08-09T04:29:02.234Z'
+dateModified: '2016-08-09T04:33:54.433Z'
 title: What's Next for the Great Barrier Reef? - Pacific Standard
 app_links:
   - type: android
@@ -57,7 +57,7 @@ description: >-
   we started the hour-long journey to our Great Barrier Reef dive site, the
   underwater beasts were far from my mind.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

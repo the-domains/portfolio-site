@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-04T15:20:15.397Z'
+datePublished: '2016-08-10T15:32:32.748Z'
 sourcePath: _posts/2016-08-03-photography.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T15:20:10.449Z'
+dateModified: '2016-08-10T15:32:23.106Z'
 title: Photography
 publisher: {}
 description: >-
@@ -18,17 +18,17 @@ _type: MediaObject
 # Photography
 
 Check out some of my work below. I'm available for photo assignments, and can also provide photos in addition to reporting and writing.
-![A drag production of the musical "Chicago" in Miami Beach.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c6f84f-bdeb-4075-9007-d9d6f7bcd207.jpg)
+![A performer wields a prop gun in a drag production of the musical "Chicago" in Miami Beach, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c6f84f-bdeb-4075-9007-d9d6f7bcd207.jpg)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-A drag production of the musical "Chicago" in Miami Beach.
-![Twilight at the pier, Naples, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa345e2-389d-46d7-bd33-1e8ba35587e1.jpg)
+A performer wields a prop gun in a drag production of the musical "Chicago" in Miami Beach, FL.
+![People taking in the sunset at the pier, Naples, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa345e2-389d-46d7-bd33-1e8ba35587e1.jpg)
 
-Twilight at the pier, Naples, FL.
-![Coca-Cola bottling plant, Carepa, Colombia.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c4b7142-1727-4780-993f-191fdf249e56.jpg)
+People taking in the sunset at the pier, Naples, FL.
+![A worker at a Coca-Cola bottling plant in Carepa, Colombia watches the line.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c4b7142-1727-4780-993f-191fdf249e56.jpg)
 
-Coca-Cola bottling plant, Carepa, Colombia.
+A worker at a Coca-Cola bottling plant in Carepa, Colombia watches the line.
 ![A Mission Street mariachi takes a break as he waits for post-performance tacos, San Francisco, CA.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a86c853-087c-43ca-b259-3c6f03bbb4a8.jpg)
 
 A Mission Street mariachi takes a break as he waits for post-performance tacos, San Francisco, CA.
@@ -43,4 +43,4 @@ A tourist takes a picture of a sea lion pup in Abel Tasman National Park, South 
 Avery Burke makes "the most complicated latte in the world" at The Temporarium, San Francisco, CA.
 ![The brisket burger at Ti Kouka Cafe, Wellington, New Zealand.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6575cf5d-a585-495b-9308-0758290e9471.jpg)
 
-The brisket burger at Ti Kouka Cafe, Wellington, New Zealand.
+The brisket burger is a popular item at Ti Kouka Cafe, Wellington, New Zealand.

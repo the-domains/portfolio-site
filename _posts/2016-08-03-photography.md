@@ -1,18 +1,19 @@
 ---
-datePublished: '2016-08-10T15:32:40.709Z'
-sourcePath: _posts/2016-08-03-photography.md
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-10T15:32:40.293Z'
+id: 61525eba-cab2-40c4-bd57-6a9243dae2e2
+dateModified: '2016-08-23T20:02:40.117Z'
 title: Photography
-publisher: {}
+datePublished: '2016-08-23T20:02:41.614Z'
+author: []
+hasPage: true
 description: >-
   Check out some of my work below. I’m available for photo assignments, and can
   also provide photos in addition to reporting and writing.
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-03-photography.md
 url: photography/index.html
-_type: MediaObject
+_type: Blurb
 
 ---
 # Photography

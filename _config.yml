@@ -1,4 +1,3 @@
-layout_spectrum: 0.8387422263622284
 typography_spectrum: 0.43132795160636306
 color:
   brandStrength: 0.9337805032264441
@@ -11,6 +10,7 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+layout_spectrum: 0.8387422263622284
 author:
   name: Tovin Lapan
   email: tovinlapan@gmail.com

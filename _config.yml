@@ -1,4 +1,3 @@
-layout_spectrum: 0.4331259753089398
 typography_spectrum: 0.3135035599116236
 color:
   brandStrength: 0.37670186231844127
@@ -11,6 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.4331259753089398
 author:
   name: Tovin Lapan
   email: tovinlapan@gmail.com
@@ -18,9 +18,6 @@ author:
 logo: null
 name: Tovin Lapan
 navigation:
-  - name: About Me
-    id: 598af886-40b9-4195-843b-df513fbf7824
-    type: content
   - name: Contact
     id: c6be684b-bd01-4fa6-8ce6-93e4c2f7e781
     type: content

@@ -18,9 +18,6 @@ author:
 logo: null
 name: Tovin Lapan
 navigation:
-  - name: Contact
-    id: c6be684b-bd01-4fa6-8ce6-93e4c2f7e781
-    type: content
   - name: Photography
     id: 61525eba-cab2-40c4-bd57-6a9243dae2e2
     type: content

@@ -1,17 +1,17 @@
 ---
-id: 61525eba-cab2-40c4-bd57-6a9243dae2e2
-dateModified: '2016-08-23T20:02:40.117Z'
-title: Photography
-datePublished: '2016-08-23T20:02:41.614Z'
-author: []
+datePublished: '2016-08-24T00:14:40.510Z'
+sourcePath: _posts/2016-08-03-photography.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T22:27:57.024Z'
+title: Photography
+id: 61525eba-cab2-40c4-bd57-6a9243dae2e2
+publisher: {}
 description: >-
   Check out some of my work below. I’m available for photo assignments, and can
   also provide photos in addition to reporting and writing.
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-03-photography.md
 url: photography/index.html
 _type: Blurb
 
@@ -20,8 +20,6 @@ _type: Blurb
 
 Check out some of my work below. I'm available for photo assignments, and can also provide photos in addition to reporting and writing.
 ![A performer wields a prop gun in a drag production of the musical "Chicago" in Miami Beach, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c6f84f-bdeb-4075-9007-d9d6f7bcd207.jpg)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 A performer wields a prop gun in a drag production of the musical "Chicago" in Miami Beach, FL.
 ![People taking in the sunset at the pier, Naples, FL.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fa345e2-389d-46d7-bd33-1e8ba35587e1.jpg)

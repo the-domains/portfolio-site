@@ -1,4 +1,3 @@
-layout_spectrum: 0.5174791244789958
 typography_spectrum: 0.9356308632995933
 color:
   brandStrength: 0.2862003173213452
@@ -11,6 +10,7 @@ color:
     - '#FFFFFF'
     - '#ACCFCC'
     - '#8A0917'
+layout_spectrum: 0.5174791244789958
 author:
   name: Tovin Lapan
   email: tovinlapan@gmail.com
@@ -28,5 +28,5 @@ navigation:
     id: c6be684b-bd01-4fa6-8ce6-93e4c2f7e781
     type: content
 favicon: null
-title: Tovin Lapan
+title: Freelance Journalist
 description: Freelance Journalist
